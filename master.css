@@ -1,0 +1,125 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-size: 20px;
+}
+
+h1{
+  margin: 40px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  font-family: 'Rampart One';
+  margin: 0;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+  color: #11999E;
+}
+
+hr{
+  border-style: none;
+  border-color: grey;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 4%;
+  color: #EAF6F6;
+  margin: 50px auto;
+}
+
+.brandname {
+  font-family: 'Rampart One';
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navigation-bar {
+  font-family: 'Rampart One';
+  font-weight: 600;
+}
+
+#about-me {
+  background-color: #F9F3DF;
+}
+
+.profile {
+  margin-top: 70px;
+  height: 200px;
+  width: 200px;
+}
+
+.navbar {
+  padding: 0.8rem 0.2rem 1.5rem 0.4rem;
+
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.top-container {
+  padding-bottom: 60px;
+
+}
+
+.para {
+  margin: 2% 0 0 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 30px;
+}
+
+.middle-container {
+  padding-bottom: 30px;
+}
+
+.drawing {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.dance {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me{
+  width: 60%;
+  margin: 40px auto 0px auto;
+}
+
+.contact-me h3 {
+  margin: 30px auto;
+}
+
+#contact-us {
+  padding: 3% 10%;
+  text-align: center;
+}
+
+.social-media {
+  margin: 30px 30px;
+  color: black;
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+.social-media:hover {
+  transform: scale(1.5) translateY(-8px);
+}
